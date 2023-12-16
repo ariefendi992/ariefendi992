@@ -1,4 +1,4 @@
-###👋 Hi, I’m Ari Efendi
+### Hi, I’m Ari Efendi
 - Programmer Python & Flutter
 - Build an Web and Android for helping people
 
